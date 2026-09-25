@@ -1,8 +1,8 @@
 ### Hi, I'm Carter
 
-I'm a Product Owner in St. Louis. I own the backlogs for three development teams on a B2B SaaS learning platform, and I led an AI video generation product from the first brief through launch.
+I'm a Product Owner in St. Louis who also writes code. At work I own the backlogs for three development teams on a B2B SaaS learning platform, and I stay close to the build: I design the product and UX flows, prototype features before they go into development, and work through the build with our engineers in Claude Code. I led an AI video generation product from the first brief through launch.
 
-I use Claude Code almost every day: at work with our engineers, and at home across about 10 personal projects, including agent teams. The two repos below are how I set that up, written so anyone can copy it.
+Outside of work I program for fun. I build audio plugins (AU and VST3) in C++ with JUCE, with signed Mac installers and Windows builds from GitHub Actions, plus desktop apps in Electron. I use Claude Code almost every day, and the two repos below are how I've set it up to run like a team.
 
 ### Featured
 
@@ -12,11 +12,13 @@ How I run five Claude Code sessions as a standing team. Each session owns a lane
 **[claude-context-library](https://github.com/carter-hanford/claude-context-library)**<br>
 A personal knowledge base Claude keeps honest. Raw notes go in, a cited wiki comes out, and every claim traces back to the file it came from. Comes with an Electron app that shows the library live and runs the ingest through headless Claude Code.
 
+### Tools I use
+
+C++ and JUCE · JavaScript and Electron · Python and R · Git and GitHub Actions · Claude Code · Azure DevOps and Jira
+
 ### Before product
 
 I have an M.A. in Computational Sociology from Saint Louis University, where I was a graduate teaching assistant for statistics and machine learning. The older repos here are from that work: spatial analysis in R, web maps, and machine learning notebooks. Before that I played Division I baseball at SLU.
-
-I also build audio plugins (AU and VST3) in C++ with JUCE.
 
 ### Find me
 
