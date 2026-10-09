@@ -1,6 +1,6 @@
 <img src="banner.png" alt="Carter Hanford, Product Owner in St. Louis" width="100%">
 
-I'm a Product Owner in St. Louis who also writes code. At work I own the backlogs for three development teams on a B2B SaaS learning platform, and I stay close to the build: I design the product and UX flows, prototype features before they go into development, and work through the build with our engineers in Claude Code. I led an AI video generation product from the first brief through launch.
+I'm a Product Owner in St. Louis who also writes code. At work I own the backlogs for three development teams on a B2B SaaS learning platform, and I stay close to the build: I design the product and UX flows, prototype features before they go into development, and work through the build with our engineers.
 
 Outside of work I program for fun. I build audio plugins (AU and VST3) in C++ with JUCE, plus desktop apps in Electron. I use Claude Code almost every day, and the two repos below are how I've set it up to run like a team.
 
